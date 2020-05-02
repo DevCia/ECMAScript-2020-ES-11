@@ -1,0 +1,12 @@
+{
+  "name": "es11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "sucrase-node index.js"
+  },
+  "dependencies": {
+    "sucrase": "^3.13.0"
+  }
+}
