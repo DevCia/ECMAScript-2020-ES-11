@@ -79,5 +79,5 @@ Vamos fazer várias coisas ao mesmo tempo, esse método nivela o array e transfo
 
 ## Conclusão
 
-Caso você tenha dúvidas ou criticas deixe nos comentários ou entre em contato comigo, espero ter ajudado a todos fiquem bem.
+Caso você tenha dúvidas ou criticas deixe nos comentários ou entre em contato com a comunidade, espero ter ajudado a todos fiquem bem.
 
