@@ -33,3 +33,11 @@ Quando temos que trabalhar com várias promises as vezes fica difícil saber se 
 <p align="center">
   <img src="images/slide3.png" width="50%" height="50%" />
 </p>
+
+## 3 => Operador de coalescência nulo
+
+Antes não havia um modo prático e nativo de testar por exemplo se uma variável que contém uma string está vazia ou se uma que contém um número está zerado. Agora esse tipo de operação foi muito facilitado pela inclusão do operador de coalescência que tem valores iniciais de cada tipo.
+
+<p align="center">
+  <img src="images/slide4.png" width="50%" height="50%" />
+</p>
