@@ -77,3 +77,7 @@ Vamos fazer várias coisas ao mesmo tempo, esse método nivela o array e transfo
   <img src="images/slide8.png" width="50%" height="50%" />
 </p>
 
+## Conclusão
+
+Caso você tenha dúvidas ou criticas deixe nos comentários ou entre em contato comigo, espero ter ajudado a todos fiquem bem.
+
