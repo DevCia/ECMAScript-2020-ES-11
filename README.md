@@ -51,10 +51,19 @@ Lembra quando você foi pega um atributo de um objeto e validou o tipo dele mais
   <img src="images/slide5.png" width="50%" height="50%" />
 </p>
 
+
 ## 5 => Atributos privados
 
 Temos agora suporte nativo aos atributos privados e cada vez mais o javascript vai caminhando na direção do typescript.
 
 <p align="center">
   <img src="images/slide6.png" width="50%" height="50%" />
+</p>
+
+## 6 => Metodo Flat()
+
+O método flat pega um array de dois níveis e transforma em um array simples de uma maneira mais fácil.
+
+<p align="center">
+  <img src="images/slide7.png" width="50%" height="50%" />
 </p>
