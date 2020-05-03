@@ -41,3 +41,12 @@ Antes não havia um modo prático e nativo de testar por exemplo se uma variáve
 <p align="center">
   <img src="images/slide4.png" width="50%" height="50%" />
 </p>
+
+## 4 => Operador de encadeamento opcional
+
+Lembra quando você foi pega um atributo de um objeto e validou o tipo dele mais não o caminho até lá e depois estourou erro porque esse caminho não existia, então esse operador resolve esse problema devolvendo undefined ao invés de uma exception.
+
+
+<p align="center">
+  <img src="images/slide5.png" width="50%" height="50%" />
+</p>
