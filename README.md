@@ -50,3 +50,11 @@ Lembra quando você foi pega um atributo de um objeto e validou o tipo dele mais
 <p align="center">
   <img src="images/slide5.png" width="50%" height="50%" />
 </p>
+
+## 5 => Atributos privados
+
+Temos agora suporte nativo aos atributos privados e cada vez mais o javascript vai caminhando na direção do typescript.
+
+<p align="center">
+  <img src="images/slide6.png" width="50%" height="50%" />
+</p>
