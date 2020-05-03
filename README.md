@@ -67,3 +67,13 @@ O método flat pega um array de dois níveis e transforma em um array simples de
 <p align="center">
   <img src="images/slide7.png" width="50%" height="50%" />
 </p>
+
+
+## 7 => Metodo FlatMap()
+
+Vamos fazer várias coisas ao mesmo tempo, esse método nivela o array e transforma ao mesmo tempo.
+
+<p align="center">
+  <img src="images/slide8.png" width="50%" height="50%" />
+</p>
+
